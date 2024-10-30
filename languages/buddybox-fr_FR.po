@@ -1,0 +1,1205 @@
+# Copyright (C) 2013 Buddybox
+# This file is distributed under the same license as the Buddybox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Buddybox 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddybox\n"
+"POT-Creation-Date: 2013-04-10 20:51:25+00:00\n"
+"PO-Revision-Date: 2013-04-10 22:52+0100\n"
+"Last-Translator: imath <mathchristo@yahoo.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: buddybox.php:61 buddybox.php:63
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche&nbsp;?"
+
+#: includes/admin/buddybox-admin.php:158 includes/admin/buddybox-admin.php:159
+#: includes/admin/buddybox-admin.php:166 includes/admin/buddybox-admin.php:167
+#: includes/buddybox-item-screens.php:235 templates/buddybox.php:14
+msgid "BuddyBox"
+msgstr "BuddyBox"
+
+#: includes/admin/buddybox-admin.php:178 includes/admin/buddybox-admin.php:179
+msgid "Welcome to BuddyBox"
+msgstr "Bienvenu dans BuddyBox"
+
+#: includes/admin/buddybox-admin.php:382
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin/buddybox-admin.php:383 includes/admin/buddybox-admin.php:405
+msgid "About"
+msgstr "A propos"
+
+#: includes/admin/buddybox-admin.php:399
+msgid "BuddyBox %s"
+msgstr "BuddyBox %s"
+
+#: includes/admin/buddybox-admin.php:400
+msgid ""
+"Thank you for downloading and installing the very first version of BuddyBox! "
+"BuddyBox %s is ready to manage the files and folders of your buddies!"
+msgstr ""
+"Merci d&#39;avoir téléchargé la toute première version de BuddyBox! BuddyBox "
+"%s est prêt à aider vos membres dans le partage de leurs fichiers et "
+"dossiers!"
+
+#: includes/admin/buddybox-admin.php:401
+msgid "Version %s"
+msgstr "Version %s"
+
+#: includes/admin/buddybox-admin.php:410
+msgid "Share files, the BuddyPress way!"
+msgstr ""
+"Permettez à vos membres de partager des fichiers au sein de votre "
+"communauté. "
+
+#: includes/admin/buddybox-admin.php:413
+msgid ""
+"BuddyBox is a BuddyPress plugin to power the management of your members "
+"files and folders. It requires version 1.7 of BuddyPress."
+msgstr ""
+"BuddyBox est un plugin BuddyPress qui simplifie le partage de fichiers et "
+"dossiers pour les utilisateurs de votre site. Il requiert la version 1.7 de "
+"BuddyPress."
+
+#: includes/admin/buddybox-admin.php:414
+msgid ""
+"Each member of your community will get a BuddyBox area in their member&#39;s "
+"page."
+msgstr ""
+"Chacun des membres de votre communauté se verra équiper d&#39;une BuddyBox "
+"qui sera accessible depuis leur zone de membre."
+
+#: includes/admin/buddybox-admin.php:421
+msgid "User&#39;s BuddyBox"
+msgstr "La BuddyBox des membres"
+
+#: includes/admin/buddybox-admin.php:425
+msgid "The BuddyBox Explorer"
+msgstr "L&#39;explorateur de fichiers"
+
+#: includes/admin/buddybox-admin.php:426
+msgid "It lives in the member&#39;s page just under the BuddyBox tab."
+msgstr ""
+"Il est accessible depuis l&#39;onglet BuddyBox de la page personnelle du "
+"membre."
+
+#: includes/admin/buddybox-admin.php:427
+msgid ""
+"The BuddyBox edit bar allows the user to manage from one unique place his "
+"content."
+msgstr ""
+"La barre d&#39;édition permet à chaque utilisateur de gérer son contenu "
+"depuis un endroit unique."
+
+#: includes/admin/buddybox-admin.php:428
+msgid ""
+"He can add new files, new folders, set their privacy settings, edit them and "
+"of course delete them at any time."
+msgstr ""
+"Il peut ajouter de nouveaux fichiers ou dossiers, régler leurs paramètres de "
+"visibilité, les éditer et bien sûr les supprimer à tout moment."
+
+#: includes/admin/buddybox-admin.php:433
+msgid "BuddyBox Uploader"
+msgstr "L&#39;uploader de BuddyBox"
+
+#: includes/admin/buddybox-admin.php:437
+msgid "WordPress HTML5 Uploader"
+msgstr "Inspiré de l&#39;HTML5 Uploader de WordPress"
+
+#: includes/admin/buddybox-admin.php:438
+msgid ""
+"BuddyBox uses WordPress HTML5 uploader and do not add any third party script "
+"to handle uploads."
+msgstr ""
+"BuddyBox utilise l&#39;outil d&#39;upload de WordPress et n&#39;ajoute aucun "
+"script tier pour sa gestion des uploads."
+
+#: includes/admin/buddybox-admin.php:439
+msgid ""
+"WordPress is a fabulous tool and already knows how to deal with attachments "
+"for its content."
+msgstr ""
+"WordPress est un outil génial qui sait parfaitement comment jouer avec les "
+"fichiers associés à ses contenus."
+
+#: includes/admin/buddybox-admin.php:440
+msgid "So BuddyBox is managing uploads, the WordPress way!"
+msgstr ""
+"C&#39;est pourquoi BuddyBox manage les uploads d&#39;une manière similaire à "
+"celle de WordPress."
+
+#: includes/admin/buddybox-admin.php:445 includes/buddybox-component.php:251
+msgid "BuddyBox Folders"
+msgstr "Les dossiers BuddyBox"
+
+#: includes/admin/buddybox-admin.php:449
+msgid "Using folders is a convenient way to share a list of files at once."
+msgstr ""
+"L&#39;utilisation des dossiers est un moyen très pratique de partager une "
+"liste de fichiers en une seule fois."
+
+#: includes/admin/buddybox-admin.php:450
+msgid ""
+"Users just need to create a folder, open it an add the files of their choice "
+"to it."
+msgstr ""
+"Les utilisateus ont simplement à créer leur dossier, l&#39;ouvrir puis à y "
+"déposer les fichiers de leur choix."
+
+#: includes/admin/buddybox-admin.php:451
+msgid ""
+"When sharing a folder, a member actually shares the list of files that is "
+"attached to it."
+msgstr ""
+"Lorsqu&#39;un dossier est partagé, ce sont tous les fichiers qui lui sont "
+"attachés qui seront partagés."
+
+#: includes/admin/buddybox-admin.php:456
+msgid "BuddyBox privacy options"
+msgstr "Les options de visibilité de BuddyBox"
+
+#: includes/admin/buddybox-admin.php:461
+msgid "There are five levels of privacy for the files or folders."
+msgstr "Il y a 5 niveaux de visibilité pour les fichiers ou dossiers."
+
+#: includes/admin/buddybox-admin.php:462
+msgid ""
+"Depending on your BuddyPress settings, a user can set the privacy of a "
+"BuddyBox item to:"
+msgstr ""
+"Selon votre configuration de BuddyPress, un utilisateur peut régler la "
+"visibilité de son contenu à :"
+
+#: includes/admin/buddybox-admin.php:464
+msgid ""
+"Private: the owner of the item will be the only one to be able to download "
+"the file."
+msgstr ""
+"Privé : seul le propriétaire du contenu sera en mesure de le télécharger."
+
+#: includes/admin/buddybox-admin.php:465
+msgid ""
+"Password protected: a password will be required before being able to "
+"download the file."
+msgstr ""
+"Protégé : un mot de passe sera requis avant de pouvoir télécharger le "
+"fichier."
+
+#: includes/admin/buddybox-admin.php:466
+msgid "Public: everyone can download the file."
+msgstr "Public : tout le monde peut télécharger le contenu."
+
+#: includes/admin/buddybox-admin.php:467
+msgid ""
+"Friends only: if the BuddyPress friendship component is active, a user can "
+"restrict a download to his friends only."
+msgstr ""
+"Entre amis : si le composant de Friendships de BuddyPress est activé, un "
+"utilisateur pourra restreindre l&#39;accès à son fichier à ses amis."
+
+#: includes/admin/buddybox-admin.php:468
+msgid ""
+"One of the user&#39;s group: if the BuddyPress user groups component is "
+"active, and if the administrator of the group enabled BuddyBox, a user can "
+"restrict the download to members of the group only."
+msgstr ""
+"Un de mes groupes : Si le composant des Groupes Utilisateurs de BuddyPress "
+"est activé, et si l&#39;administrateur du groupe a opté pour BuddyBox, l&#39;"
+"utilisateur sera en mesure de partager son fichier avec les seuls membres du "
+"groupe."
+
+#: includes/admin/buddybox-admin.php:474
+msgid "Sharing BuddyBox items"
+msgstr "Le partage de contenus BuddyBox"
+
+#: includes/admin/buddybox-admin.php:478
+msgid "WordPress Embeds"
+msgstr "Merci à WordPress Embeds"
+
+#: includes/admin/buddybox-admin.php:479
+msgid ""
+"Depending on the privacy option of an item and the activated BuddyPress "
+"components, a user can :"
+msgstr ""
+"En fonction de la visibilité d&#39;un contenu et des composants BuddyPress "
+"activés, un utilisateur pourra :"
+
+#: includes/admin/buddybox-admin.php:481
+msgid "Share a public BuddyBox item in his personal activity."
+msgstr "Partager un fichier public dans son activité de profil."
+
+#: includes/admin/buddybox-admin.php:482
+msgid ""
+"Share a password protected item using the private messaging BuddyPress "
+"component."
+msgstr ""
+"Partager un contenu protégé en l&#39;attachant à un message privé grâce au "
+"composant de messagerie de BuddyPress."
+
+#: includes/admin/buddybox-admin.php:483
+msgid ""
+"Alert his friends he shared a new item using the private messaging "
+"BuddyPress component."
+msgstr ""
+"Informer ses amis qu&#39;il a partagé un contenu avec eux en utilisant ce "
+"même composant."
+
+#: includes/admin/buddybox-admin.php:484
+msgid ""
+"Share his file in a group activity to inform the other members of the group."
+msgstr ""
+"Partager son fichier dans une activité de groupe afin de prévenir les autres "
+"membres du groupe."
+
+#: includes/admin/buddybox-admin.php:485
+msgid ""
+"Copy the link to his item and paste it anywhere in the blog or in a child "
+"blog (in case of a multisite configuration). This link will automatically be "
+"converted into a nice piece of html."
+msgstr ""
+"Copier le lien vers son contenu et le coller n&#39;importe où dans le blog "
+"ou dans les différents blogs d&#39;un réseau multisite. Ce lien sera "
+"automatiquement converti en contenu html super sexy!"
+
+#: includes/admin/buddybox-admin.php:491
+msgid "Supervising BuddyBox"
+msgstr "La supervision de BuddyBox"
+
+#: includes/admin/buddybox-admin.php:495
+msgid "BuddyBox items Admin UI"
+msgstr "L&#39;interface d&#39;administration des contenus BuddyBox"
+
+#: includes/admin/buddybox-admin.php:496
+msgid ""
+"The administrator of the community can manage all BuddyBox items from the "
+"backend of WordPress."
+msgstr ""
+"L&#39;administrateur de la communauté peut gérer les contenus BuddyBox "
+"directement depuis sa zone d&#39;administration WordPress."
+
+#: includes/admin/buddybox-admin.php:497
+msgid ""
+"In this administrative area, he can download any file, edit it or its parent "
+"foler, edit the privacy options of the item and of course delete anything at "
+"any time."
+msgstr ""
+"Depuis cette zone, il peut télécharger n&#39;importe quel fichier, le "
+"modifier ou modifier son dossier d&#39;attache, régler les options de "
+"visibilité et bien entendu supprimer tout contenu à tout moment."
+
+#: includes/admin/buddybox-admin.php:502
+msgid "BuddyBox Configuration"
+msgstr "La Configuration de BuddyBox"
+
+#: includes/admin/buddybox-admin.php:506 includes/admin/buddybox-admin.php:516
+msgid "Configure BuddyBox"
+msgstr "Configurer BuddyBox"
+
+#: includes/admin/buddybox-admin.php:507
+msgid ""
+"From the settings menu of his WordPress administration, the administrator is "
+"able to configure BuddyBox by :"
+msgstr ""
+"Depuis le menu Réglages de son administration WordPress, l&#39;"
+"administrateur a la possiblilité d&#39;ajuster les réglages de BuddyBox en :"
+
+#: includes/admin/buddybox-admin.php:509
+msgid "Choosing the amount of space each user will get to upload their files."
+msgstr "Choisissant l&#39;espace de stockage de chaque utilisateur."
+
+#: includes/admin/buddybox-admin.php:510
+msgid "Adjusting the max upload size allowed for a file."
+msgstr "Adaptant le taille maximum de transfert de fichier autorisée."
+
+#: includes/admin/buddybox-admin.php:511
+msgid "Selecting the mime types from the default WordPress ones."
+msgstr ""
+"Sélectionnant les types de fichiers de son choix parmi les types disponibles "
+"par défaut dans WordPress."
+
+#: includes/admin/buddybox-admin.php:516
+msgid "Go to the BuddyBox Settings page"
+msgstr "Accéder à la page de configuration de BuddyBox"
+
+#: includes/admin/buddybox-items.php:79
+msgid "Overview"
+msgstr "Vue d&#39;ensemble"
+
+#: includes/admin/buddybox-items.php:81
+msgid ""
+"This page is a convenient way to edit the details associated with one of "
+"your file or folder."
+msgstr ""
+"Cette page est un moyen pratique de modifier les informations de chacun des "
+"fichiers et dossiers de votre communauté."
+
+#: includes/admin/buddybox-items.php:82
+msgid ""
+"The Name and Description box is fixed in place, but you can reposition all "
+"the other boxes using drag and drop, and can minimize or expand them by "
+"clicking the title bar of each box. Use the Screen Options tab to hide or "
+"unhide, or to choose a 1- or 2-column layout for this screen."
+msgstr ""
+"Le nom et la description des fichiers sont fixes, mais vous pouvez "
+"réorganiser les autres zones selon vos préférences."
+
+#: includes/admin/buddybox-items.php:86
+msgctxt "buddybox-item admin edit screen"
+msgid "Save"
+msgstr "Sauvegarde"
+
+#: includes/admin/buddybox-items.php:87
+msgctxt "buddybox-item admin edit screen"
+msgid "Privacy"
+msgstr "Visibilité"
+
+#: includes/admin/buddybox-items.php:88
+msgctxt "buddybox-item admin edit screen"
+msgid "Files"
+msgstr "Fichiers"
+
+#: includes/admin/buddybox-items.php:205
+msgid "%s item has been permanently deleted."
+msgid_plural "%s items have been permanently deleted."
+msgstr[0] "%s contenu effacé."
+msgstr[1] "%s contenus effacés."
+
+#: includes/admin/buddybox-items.php:218 includes/buddybox-component.php:131
+#: includes/buddybox-component.php:189 includes/buddybox-component.php:221
+msgid "BuddyBox Files"
+msgstr "Contenus BuddyBox"
+
+#: includes/admin/buddybox-items.php:221
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultat de la recherche pour &#8220;%s&#8221;"
+
+#: includes/admin/buddybox-items.php:234
+msgid "Search all Items"
+msgstr "Rechercher"
+
+#: includes/admin/buddybox-items.php:270
+msgid "An error occurred when trying to update your item details."
+msgstr "Une erreur est survenue lors de mise à jour du contenu."
+
+#: includes/admin/buddybox-items.php:272
+msgid "The item has been updated successfully."
+msgstr "Le contenu a été mis à jour avec succès."
+
+#: includes/admin/buddybox-items.php:290
+msgid "Edit BuddyBox Item"
+msgstr "Modifier le contenu BuddyBox"
+
+#: includes/admin/buddybox-items.php:305
+msgid "Name and Description"
+msgstr "Nom et Description"
+
+#: includes/admin/buddybox-items.php:307 includes/admin/buddybox-items.php:532
+#: includes/buddybox-item-ajax.php:447 templates/buddybox-loop.php:22
+#: templates/buddybox-loop.php:54
+msgid "Name"
+msgstr "Nom"
+
+#: includes/admin/buddybox-items.php:311 includes/buddybox-item-ajax.php:451
+#: includes/buddybox-item-template.php:1036
+msgid "Description"
+msgstr "Description"
+
+#: includes/admin/buddybox-items.php:312
+#: includes/buddybox-item-classes.php:690
+msgid "140 characters to do so"
+msgstr "140 caractères max."
+
+#: includes/admin/buddybox-items.php:338
+msgid "No item found with this ID. <a href=\"%s\">Go back and try again</a>."
+msgstr "Aucun contenu ne corresponf. <a href=\"%s\">Essayez de renouveler</a>."
+
+#: includes/admin/buddybox-items.php:363
+msgid "Delete Item"
+msgstr "Supprimer le contenu"
+
+#: includes/admin/buddybox-items.php:367
+#: includes/admin/buddybox-settings.php:246
+msgid "Save Changes"
+msgstr "Sauvegarder"
+
+#: includes/admin/buddybox-items.php:396
+#: includes/buddybox-item-template.php:718
+#: includes/buddybox-item-template.php:745
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: includes/admin/buddybox-items.php:400
+msgid "BuddyBox Space"
+msgstr "Espace BuddyBox"
+
+#: includes/admin/buddybox-items.php:410 includes/admin/buddybox-items.php:431
+#: includes/buddybox-item-ajax.php:461
+msgid "Item Sharing options"
+msgstr "Options de visibilité"
+
+#: includes/admin/buddybox-items.php:415 includes/buddybox-item-ajax.php:466
+msgid "Password"
+msgstr "Mot de passe"
+
+#: includes/admin/buddybox-items.php:418 includes/buddybox-item-ajax.php:469
+msgid "Choose the group"
+msgstr "Choisissez le groupe"
+
+#: includes/admin/buddybox-items.php:425
+msgid "The privacy of this item is not defined, please correct this!"
+msgstr "La visibilité de ce contenu n&#39;est pas définie, merci de corriger!"
+
+#: includes/admin/buddybox-items.php:432
+msgid "Privacy of this item rely on its parent <a href=\"%s\">folder</a>"
+msgstr ""
+"La visibilité de ce fichier dépend de son <a href=\"%s\">dossier parent</a>."
+
+#: includes/admin/buddybox-items.php:440 includes/buddybox-item-ajax.php:487
+msgid "Folder"
+msgstr "Dossier"
+
+#: includes/admin/buddybox-items.php:479 includes/admin/buddybox-items.php:938
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/admin/buddybox-items.php:482 includes/admin/buddybox-items.php:526
+#: includes/admin/buddybox-items.php:854 includes/admin/buddybox-items.php:941
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/admin/buddybox-items.php:499 templates/buddybox-loop.php:37
+msgid "Load More"
+msgstr "En afficher plus"
+
+#: includes/admin/buddybox-items.php:505
+msgid "No files attached to this folder"
+msgstr "Aucun fichier n&#39;est associé à ce dossier"
+
+#: includes/admin/buddybox-items.php:525
+msgid "Bulk Actions"
+msgstr "Actions de masse"
+
+#: includes/admin/buddybox-items.php:532
+msgid "Mime type"
+msgstr "Type mime"
+
+#: includes/admin/buddybox-items.php:532
+msgid "Last Edit"
+msgstr "Dernière modif."
+
+#: includes/admin/buddybox-items.php:541
+msgid ""
+"The item displayed is a file, the list of files is only available for a "
+"folder"
+msgstr ""
+"Le contenu affiché est un fichier, la liste des fichiers n&#39;est prévue "
+"que dans le cas d&#39;un dossier."
+
+#: includes/admin/buddybox-items.php:582
+msgid "Delete Items"
+msgstr "Supprimer les contenus"
+
+#: includes/admin/buddybox-items.php:583
+msgid "You are about to delete the following items:"
+msgstr "Vous êtes sur le point de supprimer les contenus suivant :"
+
+#: includes/admin/buddybox-items.php:590
+msgid "(and all the files of this folder)"
+msgstr "(et tous les fichiers attachés)"
+
+#: includes/admin/buddybox-items.php:596
+msgid "This action cannot be undone."
+msgstr "Il n&#39;est pas possible de faire marche arrière."
+
+#: includes/admin/buddybox-items.php:598
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#: includes/admin/buddybox-items.php:599 includes/buddybox-item-ajax.php:493
+#: includes/buddybox-item-classes.php:759
+#: includes/buddybox-item-template.php:191
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/admin/buddybox-items.php:765
+msgid "No items found."
+msgstr "Aucun contenu trouvé."
+
+#: includes/admin/buddybox-items.php:838
+msgid "All"
+msgstr "Tout"
+
+#: includes/admin/buddybox-items.php:839
+msgid "Files"
+msgstr "Fichiers"
+
+#: includes/admin/buddybox-items.php:840
+msgid "Folders"
+msgstr "Dossiers"
+
+#: includes/admin/buddybox-items.php:868
+msgctxt "BuddyBox admin Item Name column header"
+msgid "Name"
+msgstr "Nom"
+
+#: includes/admin/buddybox-items.php:869
+msgctxt "BuddyBox admin Item Description column header"
+msgid "Description"
+msgstr "Description"
+
+#: includes/admin/buddybox-items.php:870
+msgctxt "BuddyBox admin Privacy Status column header"
+msgid "Privacy"
+msgstr "Visibilité"
+
+#: includes/admin/buddybox-items.php:871
+msgctxt "BuddyBox admin Owner column header"
+msgid "Owner"
+msgstr "Propriétaire"
+
+#: includes/admin/buddybox-items.php:872
+msgctxt "BuddyBox admin Mime type column header"
+msgid "Mime type"
+msgstr "Type mime"
+
+#: includes/admin/buddybox-items.php:873
+msgctxt "BuddyBox admin Last Edit column header"
+msgid "Last Edit"
+msgstr "Dernière modif."
+
+#: includes/admin/buddybox-items.php:935
+msgid "Download"
+msgstr "Télécharger"
+
+#: includes/admin/buddybox-items.php:979
+#: includes/buddybox-item-template.php:40
+#: includes/buddybox-item-template.php:763
+msgid "Private"
+msgstr "Privé"
+
+#: includes/admin/buddybox-items.php:983
+#: includes/buddybox-item-template.php:41
+#: includes/buddybox-item-template.php:772
+msgid "Password protected"
+msgstr "Protégé"
+
+#: includes/admin/buddybox-items.php:987
+#: includes/buddybox-item-template.php:42
+#: includes/buddybox-item-template.php:766
+msgid "Public"
+msgstr "Public"
+
+#: includes/admin/buddybox-items.php:991
+#: includes/buddybox-item-template.php:45
+msgid "Friends only"
+msgstr "Entre amis"
+
+#: includes/admin/buddybox-settings.php:15
+msgid "Main Settings"
+msgstr "Principaux Réglages"
+
+#: includes/admin/buddybox-settings.php:36
+msgid "Space available for each user"
+msgstr "Espace de stockage disponible pour chaque utilisateur"
+
+#: includes/admin/buddybox-settings.php:44
+msgid "Max upload size"
+msgstr "Taille maximum d&#39;upload autorisée"
+
+#: includes/admin/buddybox-settings.php:52
+msgid "Mime types allowed"
+msgstr "Extensions autorisées"
+
+#: includes/admin/buddybox-settings.php:88
+msgid "Customize your Buddybox!"
+msgstr "Personnalisez votre BuddyBox!"
+
+#: includes/admin/buddybox-settings.php:105
+#: includes/admin/buddybox-settings.php:120
+msgid "MO"
+msgstr "MO"
+
+#: includes/admin/buddybox-settings.php:137
+msgid "Select / Unselect all"
+msgstr "Sélection / Déselection"
+
+#: includes/admin/buddybox-settings.php:234
+msgid "BuddyBox Settings"
+msgstr "Réglages BuddyBox"
+
+#: includes/admin/buddybox-settings.php:287
+msgid "Settings saved"
+msgstr "Réglages sauvegardés"
+
+#: includes/buddybox-component.php:95
+msgid "Search files..."
+msgstr "Rechercher fichiers..."
+
+#: includes/buddybox-component.php:142 includes/buddybox-component.php:198
+msgid "Shared by Friends"
+msgstr "Entre amis"
+
+#: includes/buddybox-component.php:219
+msgid "BuddyFiles"
+msgstr "BuddyFichiers"
+
+#: includes/buddybox-component.php:220 includes/buddybox-component.php:223
+#: includes/buddybox-component.php:235
+msgid "BuddyFile"
+msgstr "BuddyFichier"
+
+#: includes/buddybox-component.php:222
+msgid "All BuddyFiles"
+msgstr "Tous les BuddyFichiers"
+
+#: includes/buddybox-component.php:224 includes/buddybox-component.php:225
+msgid "Add New BuddyFile"
+msgstr "Ajouter un BuddyFichier"
+
+#: includes/buddybox-component.php:226
+msgid "Edit BuddyFile"
+msgstr "Modifier le BuddyFichier"
+
+#: includes/buddybox-component.php:227
+msgid "New BuddyFile"
+msgstr "Nouveau BuddyFichier"
+
+#: includes/buddybox-component.php:228
+msgid "View BuddyFile"
+msgstr "Voir le BuddyFichier"
+
+#: includes/buddybox-component.php:229
+msgid "Search BuddyFiles"
+msgstr "Rechercher des BuddyFichiers"
+
+#: includes/buddybox-component.php:230
+msgid "No BuddyFiles Found"
+msgstr "Aucun BuddyFichier trouvé"
+
+#: includes/buddybox-component.php:231
+msgid "No BuddyFiles Found in Trash"
+msgstr "Aucun BuddyFichier troué dans la corbeille"
+
+#: includes/buddybox-component.php:249
+msgid "BuddyFolders"
+msgstr "BuddyDossiers"
+
+#: includes/buddybox-component.php:250 includes/buddybox-component.php:253
+#: includes/buddybox-component.php:265
+msgid "BuddyFolder"
+msgstr "BuddyDossier"
+
+#: includes/buddybox-component.php:252
+msgid "All BuddyFolders"
+msgstr "Tous les BuddyDossiers"
+
+#: includes/buddybox-component.php:254 includes/buddybox-component.php:255
+msgid "Add New BuddyFolder"
+msgstr "Ajouter un nouveau BuddyDossier"
+
+#: includes/buddybox-component.php:256
+msgid "Edit BuddyFolder"
+msgstr "Modifier le BuddyDossier"
+
+#: includes/buddybox-component.php:257
+msgid "New BuddyFolder"
+msgstr "Nouveau BuddyDossier"
+
+#: includes/buddybox-component.php:258
+msgid "View BuddyFolder"
+msgstr "Voir le BuddyDossier"
+
+#: includes/buddybox-component.php:259
+msgid "Search BuddyFolders"
+msgstr "Rechercher des BuddyDossiers"
+
+#: includes/buddybox-component.php:260
+msgid "No BuddyFolders Found"
+msgstr "Aucun BuddyDossier trouvé"
+
+#: includes/buddybox-component.php:261
+msgid "No BuddyFolders Found in Trash"
+msgstr "Aucun BuddyDossier trouvé dans la corbeille"
+
+#: includes/buddybox-functions.php:239
+msgid ""
+"BuddyBox uses this page to manage the downloads of your buddies files, "
+"please leave it as is. It will not show in your navigation bar."
+msgstr ""
+"BuddyBox utilise cette page pour manager les téléchargement des fichiers de "
+"vos membres, merci de la maintenir en l&#39;état. Elle n&#39;apparaîtra pas "
+"dans votre navigation."
+
+#: includes/buddybox-group-class.php:78 includes/buddybox-group-class.php:81
+msgid "settings"
+msgstr "réglages"
+
+#: includes/buddybox-group-class.php:82
+msgid "Allow members of this group to share their BuddyBox folders or files."
+msgstr ""
+"Autoriser les membres de ce groupe à partager des fichiers ou des dossiers"
+
+#: includes/buddybox-group-class.php:86
+msgid "Activate BuddyBox"
+msgstr "Activer BuddyBox"
+
+#: includes/buddybox-group-class.php:91
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: includes/buddybox-group-class.php:139
+msgid "There was an error saving, please try again"
+msgstr "Une erreur est survenue, merci de renouveler"
+
+#: includes/buddybox-group-class.php:141
+msgid "Settings saved successfully"
+msgstr "Réglages enregistrés avec succès"
+
+#: includes/buddybox-group-class.php:159
+msgctxt "group admin edit screen"
+msgid "BuddyBox"
+msgstr "BuddyBox"
+
+#: includes/buddybox-group-class.php:190
+#: includes/buddybox-item-template.php:98 templates/buddybox-explorer.php:68
+msgid "Root folder"
+msgstr "Dossier racine"
+
+#: includes/buddybox-item-actions.php:115
+msgid "This file is password protected"
+msgstr "Ce fichier est protégé par un mot de passe"
+
+#: includes/buddybox-item-actions.php:126
+msgid "Wrong password"
+msgstr "Mot de passe erroné"
+
+#: includes/buddybox-item-actions.php:145
+msgid "You must be a friend of this member to download the file"
+msgstr ""
+"Vous devez être ami avec ce membre pour pouvoir télécharger ce contenu."
+
+#: includes/buddybox-item-actions.php:155 includes/buddybox-item-ajax.php:609
+msgid "Group component is deactivated, please contact the administrator."
+msgstr ""
+"Le composant groupe d&#39;utilisateurs est désactivé, merci de contacter "
+"l&#39;administrateur."
+
+#: includes/buddybox-item-actions.php:164
+msgid "You must be member of the group to download the file"
+msgstr "Vous devez être membre de ce groupe pour télécharger ce fichier"
+
+#: includes/buddybox-item-actions.php:229
+msgid "Cheating ?"
+msgstr "Alors on triche ?"
+
+#: includes/buddybox-item-actions.php:253
+msgid "%s attached : %s"
+msgstr "%s attaché : %s"
+
+#: includes/buddybox-item-actions.php:258
+msgid "Automatically add the password in the message"
+msgstr "Ajouter automatiquement le mot de passe au message"
+
+#: includes/buddybox-item-actions.php:313
+msgid "Password : %s"
+msgstr "Mot de passe : %s"
+
+#: includes/buddybox-item-ajax.php:112 includes/buddybox-item-classes.php:627
+msgid "Dismiss"
+msgstr "Fermer"
+
+#: includes/buddybox-item-ajax.php:112
+msgid "&#8220;%s&#8221; has failed to upload due to an error : %s"
+msgstr ""
+"le téléchargement de &#8220;%s&#8221; a échoué en raison d&#39;une erreur : "
+"%s"
+
+#: includes/buddybox-item-ajax.php:244
+msgid "Sorry, this folder does not exist anymore."
+msgstr "Désolé, ce fichier n&#39;exite plus."
+
+#: includes/buddybox-item-ajax.php:288
+msgid "Sorry, this folder is private"
+msgstr "Désolé ce fichier est privé"
+
+#: includes/buddybox-item-ajax.php:478
+msgid "Edit your sharing options"
+msgstr "Modifier les options de visibilité"
+
+#: includes/buddybox-item-ajax.php:479
+msgid "Privacy of this item rely on its parent folder"
+msgstr "La visibilité de ce fichier dépend de son dossier parent"
+
+#: includes/buddybox-item-ajax.php:604 includes/buddybox-item-ajax.php:648
+#: includes/buddybox-item-ajax.php:680 includes/buddybox-item-ajax.php:716
+msgid "this is embarassing, it did not work :("
+msgstr "Embarassant.. ça n&#39;a pas marché :("
+
+#: includes/buddybox-item-ajax.php:630
+msgid "%1$s shared a BuddyBox Item in the group %2$s"
+msgstr "%1$s a partagé un contenu BuddyBox dans le groupe %2$s"
+
+#: includes/buddybox-item-ajax.php:695
+msgid ""
+"We could not find your BuddyBox item or its privacy is not set to public"
+msgstr ""
+"Nous n&#39;avons pas été en mesure de trouver le contenu ou ce dernier "
+"n&#39; pas public"
+
+#: includes/buddybox-item-ajax.php:699
+msgid "%s shared a BuddyBox Item"
+msgstr "%s a partagé un contenu BuddyBox"
+
+#: includes/buddybox-item-classes.php:609
+msgid "You have attempted to queue too many files."
+msgstr "Vous essayez d&rsquo;envoyer trop de fichiers à la fois."
+
+#: includes/buddybox-item-classes.php:610
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s dépasse la limite d&rsquo;envoi de ce site."
+
+#: includes/buddybox-item-classes.php:611
+msgid "This file is empty. Please try another."
+msgstr "Le fichier est vide. Merci d&rsquo;en essayer un autre."
+
+#: includes/buddybox-item-classes.php:612
+msgid "This file type is not allowed. Please try another."
+msgstr ""
+"Ce type de fichier n&rsquo;est pas autorisé. Merci d&rsquo;en essayer un "
+"autre"
+
+#: includes/buddybox-item-classes.php:613
+msgid "This file is not an image. Please try another."
+msgstr ""
+"Ce fichier n&rsquo;est pas une image. Merci d&rsquo;en envoyer un autre."
+
+#: includes/buddybox-item-classes.php:614
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Mémoire dépassée. Veuillez réessayer avec un fichier plus petit."
+
+#: includes/buddybox-item-classes.php:615
+msgid "This is larger than the maximum size. Please try another."
+msgstr ""
+"Ce fichier est plus grand que la taille maximale. Merci d&rsquo;en envoyer "
+"un autre"
+
+#: includes/buddybox-item-classes.php:616
+msgid "An error occurred in the upload. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de l&rsquo;envoi. Veuillez réessayer plus tard."
+
+#: includes/buddybox-item-classes.php:617
+msgid ""
+"There was a configuration error. Please contact the server administrator."
+msgstr ""
+"Il y a une erreur de configuration. Veuillez contacter l&rsquo;"
+"administrateur de votre serveur."
+
+#: includes/buddybox-item-classes.php:618
+msgid "You may only upload 1 file."
+msgstr "Vous pouvez seulement envoyer 1 fichier."
+
+#: includes/buddybox-item-classes.php:619
+msgid "HTTP error."
+msgstr "Erreur HTTP."
+
+#: includes/buddybox-item-classes.php:620
+msgid "Upload failed."
+msgstr "L&rsquo;envoi a échoué."
+
+#: includes/buddybox-item-classes.php:621
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr ""
+"Veuillez essayer de mettre ce fichier en ligne à l&rsquo;aide de l&rsquo;"
+"%1$soutil du navigateur%2$s."
+
+#: includes/buddybox-item-classes.php:622
+msgid ""
+"%s exceeds the maximum upload size for the multi-file uploader when used in "
+"your browser."
+msgstr ""
+"%s exceeds the maximum upload size for the multi-file uploader when used in "
+"your browser."
+
+#: includes/buddybox-item-classes.php:623
+msgid "IO error."
+msgstr "Erreur I/O (Entrées-Sorties)."
+
+#: includes/buddybox-item-classes.php:624
+msgid "Security error."
+msgstr "Erreur de sécurité."
+
+#: includes/buddybox-item-classes.php:625
+msgid "File canceled."
+msgstr "Fichier annulé."
+
+#: includes/buddybox-item-classes.php:626
+msgid "Upload stopped."
+msgstr "L&rsquo;envoi est stoppé."
+
+#: includes/buddybox-item-classes.php:628
+msgid "Crunching&hellip;"
+msgstr "En cours de traitement&hellip;"
+
+#: includes/buddybox-item-classes.php:629
+msgid "moved to the trash."
+msgstr "déplacé dans la Corbeille."
+
+#: includes/buddybox-item-classes.php:630
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; n&rsquo;a pas pu être mis en ligne."
+
+#: includes/buddybox-item-classes.php:654
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app "
+"for your device</a> instead."
+msgstr ""
+"Le navigateur web de votre système ne permet pas de mettre des fichiers en "
+"ligne. Vous devriez pouvoir le faire en passant par <a href=\"http://"
+"wordpress.org/extend/mobile/\">une application native</a>."
+
+#: includes/buddybox-item-classes.php:689
+msgid "Describe your file"
+msgstr "Décrivez votre fichier"
+
+#: includes/buddybox-item-classes.php:691
+#: includes/buddybox-item-classes.php:701
+#: includes/buddybox-item-template.php:186
+msgid "Next Step"
+msgstr "Suivant"
+
+#: includes/buddybox-item-classes.php:695
+#: includes/buddybox-item-template.php:182
+msgid "Define your sharing options"
+msgstr "Définissez vos options de visibilité"
+
+#: includes/buddybox-item-classes.php:729
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: includes/buddybox-item-classes.php:744
+msgid "Upload your file!"
+msgstr "Envoyez votre fichier!"
+
+#: includes/buddybox-item-classes.php:750
+msgid "Drop your file here"
+msgstr "Déposer votre fichier ici"
+
+#: includes/buddybox-item-classes.php:751
+msgctxt "Uploader: Drop your file here - or - Select your File"
+msgid "or"
+msgstr "Ou"
+
+#: includes/buddybox-item-classes.php:752
+msgid "Select your File"
+msgstr "Sélectionnez le"
+
+#: includes/buddybox-item-classes.php:758
+msgid "Maximum upload file size: %d%s."
+msgstr "Taille maximale d&rsquo;un fichier mis en ligne&nbsp;: %d%s."
+
+#: includes/buddybox-item-filters.php:64
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "Pas assez d&#39;espace disponible. Il manque %1$s KO"
+
+#: includes/buddybox-item-filters.php:66
+msgid "This file is too big. Files must be less than %1$s MB in size."
+msgstr ""
+"Ce fichier est trop important. Les fichiers doivent être inférieurs à %1$s "
+"MO en taille."
+
+#: includes/buddybox-item-filters.php:68
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+"Vous avez épuisé votre espace de stockage. Merci de supprimer des fichiers "
+"avant de tenter de nouveaux envois."
+
+#: includes/buddybox-item-functions.php:13
+msgid "Please, add only one file at a time"
+msgstr "Merci d&#39;envoyer un fichier à la fois"
+
+#: includes/buddybox-item-functions.php:14
+msgid "loading.."
+msgstr "Chargement en cours.."
+
+#: includes/buddybox-item-functions.php:15
+msgid "Shared"
+msgstr "Partagé"
+
+#: includes/buddybox-item-functions.php:16
+msgid "Error: Item could not be removed from current group"
+msgstr "Erreur : le contenu n&#39;a pu être supprimé du groupe"
+
+#: includes/buddybox-item-functions.php:17
+msgid "Please use the checkboxes to select one or more items"
+msgstr ""
+"Merci d&#39;utiliser les cases à cocher pour sélectionner un ou plusieurs "
+"contenus"
+
+#: includes/buddybox-item-functions.php:18
+msgid "Please use the checkbox to select one item to edit"
+msgstr ""
+"Merci d&#39;utiliser les cases à cocher pour sélectionner un contenu à éditer"
+
+#: includes/buddybox-item-functions.php:19
+msgid "Are you sure you want to delete %d item(s) ?"
+msgstr "Etes vous certains de vouloir effacer %d fichiers (ou dossiers) ?"
+
+#: includes/buddybox-item-functions.php:20
+msgid "Error: Item(s) could not be deleted"
+msgstr "Erreur: le(s) contenu(s) n&#39;ont pu être supprimé"
+
+#: includes/buddybox-item-functions.php:21
+msgid "The title is required"
+msgstr "Le titre est requis"
+
+#: includes/buddybox-item-functions.php:22
+msgid "Please choose a group in the list"
+msgstr "Merci de choisir un groupe dans la liste"
+
+#: includes/buddybox-item-functions.php:23
+msgid "Please choose a password"
+msgstr "Merci de choisir un mot de passe"
+
+#: includes/buddybox-item-functions.php:24
+msgid "Define your password"
+msgstr "Définissez votre mot de passe"
+
+#: includes/buddybox-item-functions.php:535
+msgid "Files included in this folder :"
+msgstr "Fichiers inclus dans ce dossier :"
+
+#: includes/buddybox-item-template.php:48
+msgid "One of my groups"
+msgstr "Un de mes groupes"
+
+#: includes/buddybox-item-template.php:85
+msgid "No folder available"
+msgstr "Aucun dossier disponible"
+
+#: includes/buddybox-item-template.php:142
+msgid "No group available for BuddyBox"
+msgstr "Aucun groupe n&#39;a activé BuddyBox"
+
+#: includes/buddybox-item-template.php:189
+msgid "Create your folder"
+msgstr "Créez votre dossier"
+
+#: includes/buddybox-item-template.php:190
+msgid "Name of your folder"
+msgstr "Nom de votre dossier"
+
+#: includes/buddybox-item-template.php:191
+msgid "Add folder"
+msgstr "Ajouter le dossier"
+
+#: includes/buddybox-item-template.php:240
+msgid "<span id=\"buddy-quota\">%s</span>&#37; used"
+msgstr "<span id=\"buddy-quota\">%s</span>&#37; utilisé"
+
+#: includes/buddybox-item-template.php:592
+msgid "User Avatar of %s"
+msgstr "Avatar de %s"
+
+#: includes/buddybox-item-template.php:679
+msgid "Group logo of %d"
+msgstr "Logo du groupe %d"
+
+#: includes/buddybox-item-template.php:769
+msgid "Friends"
+msgstr "Amis"
+
+#: includes/buddybox-item-template.php:778
+msgid "Group"
+msgstr "Groupe"
+
+#: includes/buddybox-item-template.php:825
+msgid "folder"
+msgstr "dossier"
+
+#: includes/buddybox-item-template.php:830
+msgid "file"
+msgstr "fichier"
+
+#: includes/buddybox-item-template.php:1046
+#: includes/buddybox-item-template.php:1054
+#: includes/buddybox-item-template.php:1062
+#: includes/buddybox-item-template.php:1070
+msgid "Link"
+msgstr "Lien"
+
+#: includes/buddybox-item-template.php:1050
+#: includes/buddybox-item-template.php:1058
+#: includes/buddybox-item-template.php:1066
+#: includes/buddybox-item-template.php:1074
+msgid "Share"
+msgstr "Partager"
+
+#: includes/buddybox-item-template.php:1076
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/buddybox-item-template.php:1096
+msgid "Password required"
+msgstr "Mot de passe requis"
+
+#: templates/buddybox-explorer.php:54
+msgid "New File"
+msgstr "Nouveau fichier"
+
+#: templates/buddybox-explorer.php:55
+msgid "New Folder"
+msgstr "Nouveau dossier"
+
+#: templates/buddybox-explorer.php:56
+msgid "Edit Item"
+msgstr "Modifier"
+
+#: templates/buddybox-explorer.php:57
+msgid "Delete Item(s)"
+msgstr "Supprimer"
+
+#: templates/buddybox-loop.php:22 templates/buddybox-loop.php:54
+msgid "Privacy"
+msgstr "Visibilité"
+
+#: templates/buddybox-loop.php:22 templates/buddybox-loop.php:54
+msgid "Type"
+msgstr "Type"
+
+#: templates/buddybox-loop.php:22 templates/buddybox-loop.php:54
+msgid "Last edit"
+msgstr "Dernière modif."
+
+#: templates/buddybox-loop.php:61
+msgid "Sorry, there was no buddybox items found."
+msgstr "Désolé, aucun contenu disponible."
+
+#. Plugin Name of the plugin/theme
+msgid "Buddybox"
+msgstr "Buddybox"
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/buddybox/"
+msgstr "http://imathi.eu/tag/buddybox/"
+
+#. Description of the plugin/theme
+msgid "A plugin to share files, the BuddyPress way!"
+msgstr "Un plugin pour partager des fichiers dans votre communauté BuddyPress"
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr "imath"
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu/"
+msgstr "http://imathi.eu/"
